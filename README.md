@@ -12,4 +12,4 @@ The program:
 
 If you look in [Conduktor](https://conduktor.io), you will see 3 topics with data:
 
-![Conduktor](conduktorr.png)
+![Conduktor](F784F574-2AEA-454C-98E7-6A75E0056491.jpeg)
